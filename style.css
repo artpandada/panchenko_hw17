@@ -4,8 +4,9 @@
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
+
 .wrapper_list {
-    margin:50px 50px 100px;
+    margin: 50px 50px 100px;
     list-style: none;
 }
 
@@ -18,7 +19,7 @@
     list-style: inside;
 }
 
-.list_nested ul li{
+.list_nested ul li {
     margin-left: 100px;
     color: darkgray;
     font-size: 15px;
@@ -26,18 +27,20 @@
 }
 
 .table {
-    margin-left: 50px ;
+    margin-left: 50px;
     border: dimgrey 3px solid;
     border-collapse: collapse;
 
 }
+
 .table td {
 
     padding: 20px;
-    font-size:15px ;
+    font-size: 15px;
     color: grey;
 
 }
+
 .table td {
     border: 1px solid;
 }
